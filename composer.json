@@ -1,5 +1,5 @@
 {
-    "name": "tweedegolf/prometheus-bundle",
+    "name": "arvi89/prometheus-bundle",
     "description": "Symfony bundle for Prometheus client",
     "license": "MIT",
     "autoload": {
@@ -11,6 +11,12 @@
         {
             "name": "Ruben Nijveld",
             "email": "ruben@tweedegolf.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Arvi89/prometheus-client"
         }
     ],
     "require": {
